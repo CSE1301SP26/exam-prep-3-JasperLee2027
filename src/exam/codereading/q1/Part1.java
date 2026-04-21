@@ -9,3 +9,9 @@ public class Part1 {
 		System.out.println ( v3 ) ;
 	}
 }
+
+//answer:
+//C
+//B
+//S :  v 4.0
+// v 4.0
