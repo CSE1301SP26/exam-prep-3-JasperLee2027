@@ -45,3 +45,13 @@ public class Bike {
 		huffy.pedal();
 	}
 }
+
+//answer:
+//2
+//3
+//12
+//1
+//13
+//6
+//1
+//2
