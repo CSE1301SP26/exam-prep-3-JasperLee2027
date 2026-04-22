@@ -53,3 +53,7 @@ public class LeakyCup {
 		System.out.println (bigRef.drip());
 	}
 }
+
+//answer: 0 8 7 74 64 62 52 42
+//big cup (100, 10): 0 100 98 88 86 76 74* 64* 62* 52* 42*
+//small cup (10, 1): 0 0* 10 8* 7*
