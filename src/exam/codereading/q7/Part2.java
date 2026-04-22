@@ -11,3 +11,9 @@ public class Part2 {
 	}
 
 }
+
+//answer: 
+//C 
+//#0 0 0 0
+//T: 1 / 2
+//F
