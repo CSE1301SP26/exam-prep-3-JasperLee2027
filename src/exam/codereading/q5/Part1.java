@@ -20,3 +20,7 @@ public class Part1 {
 		}
 	}
 }
+
+//answer: d e a b d
+//list: a b c d e f 
+//i-index: 2-3,3-4,4-0,5-1,6-3
