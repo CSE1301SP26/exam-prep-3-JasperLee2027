@@ -23,3 +23,6 @@ public class Part2 {
 		}
 	}
 }
+
+//answer: earth wind water fire heart
+//x: 1 4 2 3 0
