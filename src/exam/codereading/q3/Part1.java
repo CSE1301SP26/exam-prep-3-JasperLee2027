@@ -19,3 +19,6 @@ public class Part1 {
 		}
 	}
 }
+
+//answer: 4 9 5 10 8 12
+//item list: (4,9,5,10,8,12)
