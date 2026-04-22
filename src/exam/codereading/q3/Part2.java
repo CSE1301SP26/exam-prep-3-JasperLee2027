@@ -18,3 +18,6 @@ public class Part2 {
 		}
 	}
 }
+
+//answer: 15 131 0 247 12
+//
