@@ -11,3 +11,9 @@ public class Part3 {
 	}
 
 }
+
+//answer: 
+//C
+//T: 1 / 0
+//X
+//#1 1 3 1
