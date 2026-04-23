@@ -24,3 +24,7 @@ public class Part1 {
 		}
 	}
 }
+
+//answer: 2, 0, 1, 0, 2
+//words: class, inheritance, object, instance, list
+//base: 5, 11, 6, 8, 4
