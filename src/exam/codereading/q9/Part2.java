@@ -24,3 +24,6 @@ public class Part2 {
 			}
 	}
 }
+
+//answer: friday, monday, saturday, wednesday, thursday, 
+//x.length: 5, 1, 6, 3, 4, 
