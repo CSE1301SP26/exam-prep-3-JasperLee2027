@@ -59,3 +59,7 @@ public class Vacuum {
 		System.out.println(old.clean(1));
     }
  }
+
+//answer: 2 0 0 5 0 2 3
+//small (5): 0 2* 3 4 5 5 5 5 5*
+//large (10): 0 0*c 0*c 0*c 0 2* 3*
