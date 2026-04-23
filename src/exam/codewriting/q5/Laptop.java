@@ -9,23 +9,34 @@ public class Laptop {
 	 */
 	
 	//Put your instance variable here:
-	
+	public class Laptop extends Computer {
+		private boolean isClosed;
+	}
 	
 	
     // %Write the constructor for the \texttt{Laptop} class.
 	// %When a \texttt{Laptop} is first created, it should be closed.
 
-	
+	public Laptop() {
+		super();
+		this.isClosed= true
+	}
 	
 	
 	// Should put the laptop to sleep, if it is on
 	public void close() {
-	
+		this.isClosed==true
+		if (this.isOn==true){
+			this.isAsleep= true
+		}
 	}
 	
 	// Should wake the laptop up, if it is on
 	public void open() {
-		
+		this.isClosed= false
+		if (this.isOn==true) {
+			this.isAsleep= false
+		}
 	}
 	
 	/* 
@@ -34,6 +45,8 @@ public class Laptop {
 	* from the base class. 
 	*/
 	public void pushPowerButton(boolean longPress) {
-	
+		if (this.isClose==false){
+			super.pushPowerButton(longPress);
+		}
 	}
 }
